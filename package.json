@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/grindframe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grind config/frame key checks for twelve-factor services.",
+  "bin": {
+    "grindframe": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/grindframe.git"
+  },
+  "homepage": "https://theworker02.github.io/grindframe/",
+  "keywords": [
+    "grind",
+    "frame",
+    "config",
+    "cli",
+    "toolkit"
+  ]
+}
